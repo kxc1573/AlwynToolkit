@@ -12,3 +12,7 @@ _A maven project as a collection for Java Utils_
 - [ReflectUtil.java](https://github.com/kxc1573/AlwynToolkit/blob/main/javautils/src/main/java/com/alwyn/javautils/ReflectUtil.java)
 
   _leverage the Java reflection mechanism to get and set all attributes types and values of a Class_
+
+- [HttpUtil.java](https://github.com/kxc1573/AlwynToolkit/blob/main/javautils/src/main/java/com/alwyn/javautils/HttpUtil.java)
+
+  _Implement of GET and POST request for HTTP and HTTPS_
